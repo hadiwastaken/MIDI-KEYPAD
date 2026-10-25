@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLPCB,$12.70,$12.70,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+SWITCHES,4,daraz,$1.67,$6.68,https://www.daraz.pk/
 Estimated total shipping,1,,,$0.00,
