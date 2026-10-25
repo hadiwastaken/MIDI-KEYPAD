@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLPCB,$12.70,$12.70,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 SWITCHES,4,daraz,$1.67,$6.68,https://www.daraz.pk/
 EC11 rotatary encoder,1,daraz,$2.58,$2.58,https://www.daraz
+waveshare ESP-32 -S3_ZERO,1,aliexpress,$2.80,$2.80,https://www.aliexpress.com/w/wholesale-esp32%2525252dS3%2525252dZero.html?spm=a2g0o.store_pc_home.history.1.4d205d3fQbtYh9
 Estimated total shipping,1,,,$0.00,
