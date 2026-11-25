@@ -1,6 +1,6 @@
 # NEEED TO CHANGE SOME STUFF BECAUSE I THINK I CHANGED SLIDER WITH KEYS NAD I THINK NOT CONFIRM THAT I ASLO CHANGE GPIO PIN ORDER OR FULL KEYS
 
-# Vibe coding some firmware because python is boring 🤑
+
 import keypad
 import touchio
 from adafruit_midi.control_change import ControlChange
